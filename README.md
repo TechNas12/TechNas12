@@ -1,170 +1,163 @@
 <div align="center">
 
-# Hi there, I'm Sanket Dahotre 👋
+# Hi 👋, I'm Sanket Dahotre
 
 ### AI Engineer • Backend Developer • Open Source Enthusiast
 
-Building intelligent systems powered by LLMs, AI Agents, and scalable backend architectures.
+Building production-ready AI systems, autonomous agents, and scalable backend applications.
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+<br>
+
+<a href="mailto:dahotresanket12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="http://linkedin.com/in/sanket-dahotre-9158a3289">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_sanket._12/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm an AI & Data Science undergraduate passionate about designing production-ready AI applications and developer tools.
+I'm an AI & Data Science undergraduate passionate about designing and building intelligent software that solves real-world problems.
 
-My primary interests lie in building intelligent systems using Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), vector databases, and scalable backend architectures.
+I specialize in **Large Language Models (LLMs)**, **AI Agents**, **Retrieval-Augmented Generation (RAG)**, **backend engineering**, and **developer tooling**. I enjoy taking products from idea to deployment by designing scalable APIs, integrating AI models, and building production-ready applications.
 
-I enjoy solving complex engineering problems—from asynchronous APIs and model orchestration to deployment pipelines and infrastructure. Whether it's developing autonomous AI workflows, recommendation engines, or backend services, I strive to build software that is practical, scalable, and maintainable.
+Currently exploring **Multi-Agent Systems**, **Model Context Protocol (MCP)**, **Distributed AI Systems**, **MLOps**, and modern infrastructure for AI.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-- Python
-- JavaScript
-- Go
-- Java
-- C/C++
-- SQL
+<img src="https://skillicons.dev/icons?i=python,js,go,java,cpp" />
 
-### AI & Machine Learning
+<br>
 
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Transformers
-- Prompt Engineering
-- Tool Calling
-- Semantic Search
-- Model Serving
+### Backend & Web
 
-### Backend
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,nodejs" />
 
-- FastAPI
-- Flask
-- REST APIs
-- Async Programming
-- Pydantic
-- Authentication
-- WebSockets
+<br>
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Supabase
-- pgvector
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase" />
 
-### Data Engineering
+<br>
 
-- Pandas
-- NumPy
-- ETL Pipelines
-- Web Scraping
-- Power BI
-- Data Visualization
+### DevOps & Infrastructure
 
-### DevOps
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash" />
 
-- Docker
-- Linux
-- Nginx
-- VPS
-- Self Hosting
-- Git
-- GitHub
+<br>
 
-### AI Platforms
+### AI & Data
 
-- Gemini
-- Anthropic Claude
-- Ollama
-- Hugging Face
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,githubactions" />
+
+</div>
+
+### AI Technologies
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic Search
+- ⚡ Prompt Engineering
+- 🔗 Tool Calling
+- 🧩 Model Serving
+- 🔄 Async Programming
+- 🕸️ WebSockets
+- 📊 ETL Pipelines
+- 📈 Data Engineering
+- 🗃️ pgvector
+- 🤗 Hugging Face
+- ✨ Google Gemini
+- 🧠 Anthropic Claude
+- 🦙 Ollama
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎵 Mix-Maker
+## 🤖 WhatsApp AI Customer Service Agent
 
-An asynchronous multi-model AI music generation pipeline that orchestrates Gemini and Lyria to compose complete musical tracks.
+Production-ready customer support platform powered by LLMs featuring RAG, Meta Cloud API integration, real-time dashboards, WebSockets, and seamless AI ↔ Human handoff.
 
-**Highlights**
-
-- Async execution engine
-- Fault tolerant retries
-- Provider abstraction
-- Audio stitching
-- Concurrent inference
+**Tech:** FastAPI • Next.js • Supabase • RAG • WebSockets
 
 ---
 
-## 🤖 WhatsApp Customer Service Agent
+## 🎵 Mix-Maker
 
-A production-ready AI support system featuring RAG, real-time dashboards, Meta Cloud API integration, and AI/Human handoff.
+A production-grade asynchronous AI music generation pipeline that orchestrates Gemini and Lyria using concurrent execution, intelligent prompt expansion, automated audio composition, and provider abstraction.
 
-**Tech**
+**Highlights**
 
-FastAPI • Next.js • Supabase • WebSockets • RAG
+- Multi-model orchestration
+- Async execution
+- Fault-tolerant retries
+- Audio stitching
+- Modular architecture
 
 ---
 
 ## 📊 YouTube Analytics Dashboard
 
-A Streamlit dashboard for extracting and analyzing YouTube channel statistics with batch processing, live progress tracking, and CSV exports.
+Modern Streamlit application for extracting and analyzing YouTube channel data with batch processing, retry mechanisms, live progress tracking, and CSV exports.
 
 ---
 
 ## 🛒 Ecommerce Platforms
 
-Designed and deployed complete ecommerce solutions for local businesses with responsive frontend architecture, secure payments, and backend integrations.
+Designed and deployed scalable ecommerce platforms with secure payment integration, responsive frontend architecture, and optimized backend services.
 
 ---
 
 # 🌱 Currently Exploring
 
-- Agentic AI
-- Multi-Agent Systems
-- MCP (Model Context Protocol)
-- MLOps
-- Distributed AI Systems
-- Kubernetes
-- Advanced Vector Search
+- 🤖 Multi-Agent Systems
+- 🔌 Model Context Protocol (MCP)
+- ☸️ Memory Management In AI Agents
+- 🚀 MLOps
+- 🌐 Distributed AI Systems
+- 🔍 Advanced Vector Search
+- ⚙️ AI Infrastructure
+- 🧠 Agentic Workflows
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechNas12&theme=github-dark&hide_border=true&area=true" width="100%">
 </p>
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
-- <a href="http://linkedin.com/in/sanket-dahotre-9158a3289">LinkedIN</a>
-- <a href="https://www.instagram.com/_sanket._12/".Instagram</a>
-- <a href="mailto:dahotresanket12@gmail.com">Email</a>
+<p align="center">
 
----
+<a href="mailto:dahotresanket12@gmail.com">📧 Email</a> •
+<a href="http://linkedin.com/in/sanket-dahotre-9158a3289">💼 LinkedIn</a> •
+<a href="https://www.instagram.com/_sanket._12/">📷 Instagram</a>
 
-> *"Building intelligent software that bridges AI research with real-world products."*
+</p>
