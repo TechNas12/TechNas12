@@ -109,17 +109,13 @@ I'm an **AI & Data Science Engineering** undergraduate who learns by **building 
 | **Telegram Inventory Management System** | Autonomous inventory operations via LLM tool-calling over MCP | LLMs · MCP · Tool Calling |
 | **Full-Stack Ecommerce Platforms** | Ecommerce solutions for local businesses with secure payments | Full-stack · Payment Integration |
 
-> 📌 Pin these on your profile (Customize your pins → select these 4-6 repos) so they show as cards above the fold.
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TechNas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNas12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNas12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechNas12&theme=tokyonight&hide_border=true" />
 </p>
