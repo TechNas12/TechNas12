@@ -1,170 +1,79 @@
-<div align="center">
+## 💻 Tech Stack
 
-# Hi there, I'm Sanket Dahotre 👋
+### 🖥️ Languages
 
-### AI Engineer • Backend Developer • Open Source Enthusiast
-
-Building intelligent systems powered by LLMs, AI Agents, and scalable backend architectures.
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 🚀 About Me
+### 🤖 AI & Machine Learning
 
-I'm an AI & Data Science undergraduate passionate about designing production-ready AI applications and developer tools.
-
-My primary interests lie in building intelligent systems using Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), vector databases, and scalable backend architectures.
-
-I enjoy solving complex engineering problems—from asynchronous APIs and model orchestration to deployment pipelines and infrastructure. Whether it's developing autonomous AI workflows, recommendation engines, or backend services, I strive to build software that is practical, scalable, and maintainable.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-- Python
-- JavaScript
-- Go
-- Java
-- C/C++
-- SQL
-
-### AI & Machine Learning
-
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Transformers
-- Prompt Engineering
-- Tool Calling
-- Semantic Search
-- Model Serving
-
-### Backend
-
-- FastAPI
-- Flask
-- REST APIs
-- Async Programming
-- Pydantic
-- Authentication
-- WebSockets
-
-### Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Supabase
-- pgvector
-
-### Data Engineering
-
-- Pandas
-- NumPy
-- ETL Pipelines
-- Web Scraping
-- Power BI
-- Data Visualization
-
-### DevOps
-
-- Docker
-- Linux
-- Nginx
-- VPS
-- Self Hosting
-- Git
-- GitHub
-
-### AI Platforms
-
-- Gemini
-- Anthropic Claude
-- Ollama
-- Hugging Face
+![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-1976D2?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-8E24AA?style=for-the-badge)
+![Model Serving](https://img.shields.io/badge/Model_Serving-FF5722?style=for-the-badge)
 
 ---
 
-# 🚀 Featured Projects
+### ⚙️ Backend
 
-## 🎵 Mix-Maker
-
-An asynchronous multi-model AI music generation pipeline that orchestrates Gemini and Lyria to compose complete musical tracks.
-
-**Highlights**
-
-- Async execution engine
-- Fault tolerant retries
-- Provider abstraction
-- Audio stitching
-- Concurrent inference
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Async](https://img.shields.io/badge/Async_Programming-7B1FA2?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-3949AB?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF9800?style=for-the-badge)
 
 ---
 
-## 🤖 WhatsApp Customer Service Agent
+### 🗄️ Databases
 
-A production-ready AI support system featuring RAG, real-time dashboards, Meta Cloud API integration, and AI/Human handoff.
-
-**Tech**
-
-FastAPI • Next.js • Supabase • WebSockets • RAG
-
----
-
-## 📊 YouTube Analytics Dashboard
-
-A Streamlit dashboard for extracting and analyzing YouTube channel statistics with batch processing, live progress tracking, and CSV exports.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 
 ---
 
-## 🛒 Ecommerce Platforms
+### 📊 Data Engineering
 
-Designed and deployed complete ecommerce solutions for local businesses with responsive frontend architecture, secure payments, and backend integrations.
-
----
-
-# 🌱 Currently Exploring
-
-- Agentic AI
-- Multi-Agent Systems
-- MCP (Model Context Protocol)
-- MLOps
-- Distributed AI Systems
-- Kubernetes
-- Advanced Vector Search
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-1565C0?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6D00?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-00897B?style=for-the-badge)
 
 ---
 
-# 📈 GitHub Stats
+### 🐳 DevOps & Infrastructure
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
-
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-455A64?style=for-the-badge)
+![Self Hosting](https://img.shields.io/badge/Self_Hosting-5E35B1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📫 Connect
+### 🧠 AI Platforms
 
-- LinkedIn
-- Portfolio
-- Email
-
----
-
-> *"Building intelligent software that bridges AI research with real-world products."*
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
