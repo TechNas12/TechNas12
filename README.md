@@ -114,7 +114,7 @@ I'm an **AI & Data Science Engineering** undergraduate who learns by **building 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNas12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TechNas12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechNas12&theme=tokyonight&hide_border=true" />
